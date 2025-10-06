@@ -32,9 +32,8 @@ The actions include: Creating new customers or placing new orders, Performing si
 
 In terminal: make
 
-Then run:bin/warehouse <config_path>
+Then run: bin/warehouse <config_path>
 
-Example:
 
-bin/warehouse config.txt
+Example: bin/warehouse config.txt
 
