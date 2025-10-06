@@ -30,9 +30,10 @@ The actions include: Creating new customers or placing new orders, Performing si
 
 # how to run
 
-In terminal: make
+1. In terminal: make
 
-Then run: bin/warehouse <config_path>
+2. Then run: bin/warehouse <config_path>
+
 
 
 Example: bin/warehouse config.txt
